@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+caption{
+	text-align:center;
+}
+table{
+	background-color:yellow;
+	border:1px solid black;
+	
+}
+
+
+th, td {
+/*   padding: 8px; */
+  text-align: left;
+border:1px solid black;
+}
